@@ -8,7 +8,7 @@ This data records the sequence of student numbers based on the swipe records of 
 
  A demo slice of the MIXh1 data is illustrated in the following figure.
 <p align="center">
-<img src="./img/example_data.png" height = "500" alt="" align=center />
+<img src="./img/example_data.png" height = "450" alt="" align=center />
 <br><br>
 <b>Figure 1.</b> An example of the MIXh1 data.
 </p>
