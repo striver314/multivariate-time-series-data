@@ -7,5 +7,8 @@ The raw data is in [https://challenge.datacastle.cn/v3/cmptDetail.html?id=177](h
 This data records the sequence of student numbers based on the swipe records of campus cards at different locations on campus. It is worth noting that the data are given in the end remove the records of consumption methods of "laundry room, shower, boiling water" because these consumption methods represent the records of students in the dormitory. At the same time, those regional crowd flow that were 0 for a long period from the 20140224 to 20150116 school years were deleted.
 
  A demo slice of the MIXh1 data is illustrated in the following figure.
-
-![example_data](F:\实验室\2022毕业论文\论文代码\data\data_with_date\multivariate-time-series-data\img\example_data.png)
+<p align="center">
+<img src="./img/example_data.png" height = "168" alt="" align=center />
+<br><br>
+<b>Figure 3.</b> An example of the MIXh1 data.
+</p>
