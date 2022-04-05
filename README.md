@@ -12,3 +12,7 @@ This data records the sequence of student numbers based on the swipe records of 
 <br><br>
 <b>Figure 1.</b> An example of the MIXh1 data.
 </p>
+
+
+### MIXm1
+The raw data is in [Question B of "Teddy Cup" Data Analysis Skills Competition](https://www.tipdm.org:10010/#/competition/1352509890509332480/question). According to the above data processing, final we get data contains crowd flow every 10 minutes of 8 regions from 20190408 to 20190427.
