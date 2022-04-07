@@ -1,5 +1,5 @@
 # Multivariate Time-series Data
-In this GitHub repo, we provide two data sets that could be used for research related to the multivariate time series signals. The MIX datasets contain the number of people in different regions. Detailed description as follows.
+In this GitHub repo, we provide a data set that could be used for research related to the multivariate time series signals. MIXm1 dataset contains the number of people in different regions. Detailed description as follows.
 
 
 ### MIXm1
